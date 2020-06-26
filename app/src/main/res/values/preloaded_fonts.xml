@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/acme</item>
+        <item>@font/alegreya</item>
+        <item>@font/baloo</item>
+        <item>@font/boogaloo</item>
+        <item>@font/capriola</item>
+        <item>@font/chango</item>
+        <item>@font/coiny</item>
+        <item>@font/coming_soon</item>
+        <item>@font/galdeano</item>
+        <item>@font/mystery_quest</item>
+        <item>@font/noto_serif</item>
+        <item>@font/sail</item>
+    </array>
+</resources>

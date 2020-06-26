@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Champions League</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="title_activity_choose_club">ChooseClubActivity</string>
+    <string name="status">Playing</string>
+    <string name="stage">Group stage</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>

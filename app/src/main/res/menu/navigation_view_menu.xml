@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group >
+        <item
+            android:id="@+id/group"
+            android:icon="@drawable/ic_format_list_bulleted_black_24dp"
+            android:title="Group" />
+        <item
+            android:id="@+id/matches"
+            android:icon="@drawable/ball"
+            android:title="Matches" />
+        <item
+            android:id="@+id/squad"
+            android:icon="@drawable/clubs"
+            android:title="Squad" />
+        <item
+            android:id="@+id/history"
+            android:icon="@drawable/report"
+            android:title="History" />
+    </group>
+</menu>
